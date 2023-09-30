@@ -8,6 +8,7 @@
 ## Features documentation <a href="#support" id="support"></a>
 
 * [Features](support/features.md)
+* [Rich emails](support/rich-emails.md)
 * [Attachments](support/attachments.md)
 * [Multiple recipients](support/multiple-recipients.md)
 * [Images](support/images.md)
