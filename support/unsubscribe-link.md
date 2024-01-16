@@ -9,6 +9,8 @@ description: >-
 
 ### How to include an unsubscribe link?
 
+Please note that the 2 methods will make your email compliant with the "One Click Unsubscribe" that is recommended by [the latest guideline for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/).
+
 There are 2 ways to include an unsubscribe link in your template with different advantages :&#x20;
 
 1. [Insert the standardized unsubscribe complete footer](unsubscribe-link.md#insert-the-standardized-unsubscribe-footer) - takes a second, and looks very standard
@@ -20,9 +22,19 @@ Whenever one of your recipients clicks to unsubscribe, they will be redirected t
 
 <figure><img src="../.gitbook/assets/unsubscribe ui.png" alt=""><figcaption></figcaption></figure>
 
+Also, depending on the email provider, recipients will see the "unsubscribe link" at the top of their emails. Below is an example in Apple Mail, but all the email clients have a different look.
+
+<figure><img src="../.gitbook/assets/unsubscribe one click.png" alt="one click unsubscribe overview in Apple mail"><figcaption><p>This is how one-click unsubscribe will look to your recipients</p></figcaption></figure>
+
+{% hint style="info" %}
+The "One click Unsubscribe" button is not always visible, Email clients have some intelligence and they don't always display the link.&#x20;
+
+It is very likely that if you send a test email to one of your other inboxes, it won't appear because the email client "knows" that you are regularly exchanging emails with this sender.
+{% endhint %}
+
 ### How would it look to me?
 
-When one of your recipients unsubscribe, you will know it through the tracking status of your campaign :&#x20;
+When one of your recipients unsubscribes, you will know it through the tracking status of your campaign :&#x20;
 
 <figure><img src="../.gitbook/assets/tracking unsubscribe.png" alt=""><figcaption></figcaption></figure>
 
