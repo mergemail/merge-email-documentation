@@ -14,6 +14,7 @@
 * [Images](support/images.md)
 * [Email Tracking](support/email-tracking.md)
 * [Unsubscribe link](support/unsubscribe-link.md)
+* [Canceling an Email Campaign](support/canceling-an-email-campaign.md)
 
 ## Help
 
