@@ -11,9 +11,9 @@ This feature is helpful if you’ve scheduled a campaign and want to cancel it b
 * Click on “Manage Schedule.”
 * Find your campaign in the list of scheduled campaigns and click on the red trash icon, then confirm by clicking “Delete Campaign.”
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLUSKwvZb8yKJwhAqSVVnLzBZzQOWy0OLW1PgMnB-SUYPA3gzNESktUdsGsaJZmjt8rNb66x93IQJlrRhQOowcLfKA0EK4NZFsQhMCxPTOCWBhfr_ioeTjJTZfP-_N5wC5C--fBDxHCdedH7HBhBe8AXqS?key=rlSKN4_xTvCUlY5e-EnN8g" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbvwXz0-qTV1lIgNHjU3GNnx_mM1b5ljbRb1JHSMd7esR3iPwp7e0rZeAEIBJVpl86NGQs5p2ACjKZyL3mnFEWI3j_vjjGPylGkv28Lyhu1qGDX0hgUo1_PI50COm8YHRb8Rac_qIw_086eAldy6fzz59Q?key=rlSKN4_xTvCUlY5e-EnN8g" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 The status of your campaign in the Google Sheet is then updated to “Deleted.”
 
@@ -54,9 +54,7 @@ To proceed, act **quickly**:
 2. Find your campaign under “Active Campaign.”
 3. You can either suspend it by clicking “Pause” or delete it by clicking “Delete.”
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXez5KL_ZyJ6YMxGLlYVPNISttKi15JmKCozrzqseFp3KeP0sux5ImhnvA5-gPWQ5EPqdOkya7CLYKG57OLx27KbpZ61a_-LxIPAhpb5OpDi4vQ6geCD37FUNkz9ngu197CY3rzTJG-gPhLWR5faKybeS_dz?key=rlSKN4_xTvCUlY5e-EnN8g" alt=""><figcaption><p>Cancel an ongoing campaign </p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Cancel an ongoing campaign </p></figcaption></figure>
 
 The campaign’s status in the Google Sheet will then change: if deleted, it shows as “Deleted”; if paused, it displays as “In queue.” Emails already sent are marked as “Sent.”\
 
