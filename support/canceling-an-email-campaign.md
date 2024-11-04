@@ -36,8 +36,7 @@ You’ll see your email reappear, and a note stating “No email was sent” wil
 No status is updated in the Google Sheet.\
 
 
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdM0rVDf2yDwyZ\_bDSzClbmu6WpIcikf1YvvD4S3iNeNIOP1MSIORpfLK2JPXCyHVx9z-FQvtog5O4Q5omRkgIM5dKZYdbxQKOZCCsPb8U0tPfVfj0sD65ZJhD3GqPziphRS3tvetttscPvRXC0ljzSqKOR?key=rlSKN4\_xTvCUlY5e-EnN8g) | ![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcyzOgFmfn2t7g6f8JLdu\_-LbWoDgh59Kg4p63l7GQxOtpICcbyAXTv5vZe5Y83Trg\_e4yx1a-pk71EaK3vYxLMFZXKruZzplap94VWCWaqRrXj5V-TJB16Wr61\_3s-jbwT8hUPg4LKc14g6HJzBNcOwP0?key=rlSKN4\_xTvCUlY5e-EnN8g) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM0rVDf2yDwyZ_bDSzClbmu6WpIcikf1YvvD4S3iNeNIOP1MSIORpfLK2JPXCyHVx9z-FQvtog5O4Q5omRkgIM5dKZYdbxQKOZCCsPb8U0tPfVfj0sD65ZJhD3GqPziphRS3tvetttscPvRXC0ljzSqKOR?key=rlSKN4_xTvCUlY5e-EnN8g" alt=""><figcaption><p>Cancel a mail merge batch using the ABORT button</p></figcaption></figure>
 
 
 
@@ -55,13 +54,13 @@ To proceed, act **quickly**:
 2. Find your campaign under “Active Campaign.”
 3. You can either suspend it by clicking “Pause” or delete it by clicking “Delete.”
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXez5KL_ZyJ6YMxGLlYVPNISttKi15JmKCozrzqseFp3KeP0sux5ImhnvA5-gPWQ5EPqdOkya7CLYKG57OLx27KbpZ61a_-LxIPAhpb5OpDi4vQ6geCD37FUNkz9ngu197CY3rzTJG-gPhLWR5faKybeS_dz?key=rlSKN4_xTvCUlY5e-EnN8g" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXez5KL_ZyJ6YMxGLlYVPNISttKi15JmKCozrzqseFp3KeP0sux5ImhnvA5-gPWQ5EPqdOkya7CLYKG57OLx27KbpZ61a_-LxIPAhpb5OpDi4vQ6geCD37FUNkz9ngu197CY3rzTJG-gPhLWR5faKybeS_dz?key=rlSKN4_xTvCUlY5e-EnN8g" alt=""><figcaption><p>Cancel an ongoing campaign </p></figcaption></figure>
 
 
 
 The campaign’s status in the Google Sheet will then change: if deleted, it shows as “Deleted”; if paused, it displays as “In queue.” Emails already sent are marked as “Sent.”\
 
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlRyoSZuN4jMa4-1XB21rT7hYnerCfw-MWlQvqpSIMtucHquGGdcvxnZ5K-VImBp9ajNel5QzMe3QoXOiHqnI6ys5AAw0NfyvDIWCGKPD8KmjXgCN6ZIVQs7Ss6NPNB31Xo1LwpZkaf7MJUgBF_al9-yw4?key=rlSKN4_xTvCUlY5e-EnN8g" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlRyoSZuN4jMa4-1XB21rT7hYnerCfw-MWlQvqpSIMtucHquGGdcvxnZ5K-VImBp9ajNel5QzMe3QoXOiHqnI6ys5AAw0NfyvDIWCGKPD8KmjXgCN6ZIVQs7Ss6NPNB31Xo1LwpZkaf7MJUgBF_al9-yw4?key=rlSKN4_xTvCUlY5e-EnN8g" alt=""><figcaption><p>Status change</p></figcaption></figure>
 
 \
