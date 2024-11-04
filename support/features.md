@@ -5,7 +5,6 @@ description: Here is the list of our features, and related documentation
 # Features
 
 * [Mail Merge with Google Sheets](../quickstart/mail-merge-tutorial.md)
-  * Cancel Send In Mail Merge
 * [Personalize emails](../quickstart/mail-merge-tutorial.md)
 * [Insert Images](images.md)
 * [Real-time email tracking](email-tracking.md)
@@ -16,3 +15,4 @@ description: Here is the list of our features, and related documentation
 * [Attachments](attachments.md)
 * Customized sender name
 * Customized reply-to address
+* [Campaign Management (Cancel a campaign)](canceling-an-email-campaign.md)
