@@ -18,13 +18,6 @@ The process to schedule a blast campaign is straightforward :
 2. Pick a date and a time by clicking on the Date picker.
 3. When it's done, simply click on "Schedule Send".&#x20;
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-
-<table data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/cover validate date.png">cover validate date.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/cover date picker.png">cover date picker.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/cover time picker.png">cover time picker.png</a></td></tr></tbody></table>
-
 ### Manage scheduled campaign
 
 
