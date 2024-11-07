@@ -9,6 +9,7 @@
 
 * [Features](support/features.md)
 * [Rich emails](support/rich-emails.md)
+* [Campaign scheduling](support/campaign-scheduling.md)
 * [Attachments](support/attachments.md)
 * [Multiple recipients](support/multiple-recipients.md)
 * [Images](support/images.md)
