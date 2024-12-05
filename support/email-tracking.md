@@ -21,3 +21,7 @@ Tracking status will be available in your spreadsheet. When the email will be op
 ## When is the tracking status updated ?
 
 Tracking status is updated when your Google Sheets is loaded, but you can refresh it at any time going to _Menu / Extensions / Mail Merge for Gmail📣 / 🔄 Refresh tracking_
+
+{% hint style="info" %}
+We have a nice article explaining how read receipts works available [here](https://merge.email/gmail-knowledge/gmail-read-receipt)!
+{% endhint %}
