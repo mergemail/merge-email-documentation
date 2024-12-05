@@ -49,3 +49,9 @@ Using the multi-recipients feature in **Mail Merge for Gmail** has a direct effe
 
 * If you are sending one email with 1 person in CC and 1 in BCC, in reality, your email will be sent to 3 people, your daily quota will be reduced by 3 after the send.
 * If you are sending one email with 3 people and 2 in CC, your daily quota will be reduced by 5 (3+2) after the send.
+
+
+
+{% hint style="info" %}
+We have some really nice articles about [how to use CC](https://merge.email/gmail-knowledge/how-to-cc-in-gmail) and [BCC](https://merge.email/gmail-knowledge/how-to-bcc) properly&#x20;
+{% endhint %}
