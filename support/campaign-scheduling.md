@@ -26,3 +26,7 @@ The process to schedule a blast campaign is straightforward :
 
 When a campaign is scheduled, you can update the delivery date or simply cancel the campaign by Clicking on Manage Schedule from the home screen.
 
+{% hint style="info" %}
+We have a nice post about [scheduling emails in gmail ](https://merge.email/gmail-knowledge/how-to-schedule-an-email-in-gmail) !
+{% endhint %}
+
