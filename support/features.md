@@ -16,3 +16,5 @@ description: Here is the list of our features, and related documentation
 * Customized sender name
 * Customized reply-to address
 * [Campaign Management (Cancel a campaign)](canceling-an-email-campaign.md)
+* [Email throttling](email-throttling.md)
+
