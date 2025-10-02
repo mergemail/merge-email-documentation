@@ -8,7 +8,7 @@
 ## Features documentation <a href="#support" id="support"></a>
 
 * [Features](support/features.md)
-* [Rich emails](support/rich-emails.md)
+* [Rich-text emails (HTML)](support/rich-text-emails-html.md)
 * [Campaign scheduling](support/campaign-scheduling.md)
 * [Attachments](support/attachments.md)
 * [Multiple recipients](support/multiple-recipients.md)
