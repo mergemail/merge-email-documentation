@@ -6,6 +6,8 @@ description: Frequently asked questions about Mail Merge for Gmail account & bil
 
 ### How can I get my invoices/receipt ?
 
+<figure><img src="../../.gitbook/assets/Frame 80.png" alt="" width="375"><figcaption></figcaption></figure>
+
 Just open the add-on and go to your account, using the button at the bottom right of the main screen. From here you can download all your invoices.
 
 ### Can I invite a team member to use my subscription ?
